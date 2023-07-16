@@ -1,13 +1,7 @@
 <div align=center> 
 Nihelv/니헬브<br>
-No special meaning.<br>
 <br>
-I may be a toddler as a developer.<br>
-But I was a newborn half a year ago.<br>
 
-나는 개발자로서 이제 아장아장 걷기 시작한 걸지도 모릅니다.<br>
-하지만 반년 전까지는 신생아였어요.
-<br><br><br>
 
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"> <br>
